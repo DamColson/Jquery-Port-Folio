@@ -1,0 +1,28 @@
+.germania{
+  font-family: 'Germania One';
+}
+
+/* .borders{
+  border : 1px solid #343a40;
+  border-radius: 50%;
+} */
+
+#barbie img {
+}
+
+.lightbox{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.4);
+    align-items: center;
+    justify-content: center;
+}
+
+.lightbox img{
+    width: 75%;
+    border: 4px white solid;
+    border-radius: 5px;
+}
